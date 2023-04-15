@@ -1,1 +1,2 @@
-console.log('app worked')
+const element = document.querySelector('p')
+element.textContent = result
